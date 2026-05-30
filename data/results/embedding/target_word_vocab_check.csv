@@ -1,0 +1,11 @@
+﻿word,in_human_vocab,in_ai_vocab,topic
+기업,True,True,경제학
+투자,True,True,경제학
+행위,True,True,법률·법학
+절차,True,True,법률·법학
+학습,True,True,교육학
+학생,True,True,교육학
+에너지,True,True,자연과학
+지구,True,True,자연과학
+우주,True,True,천문학
+행성,True,True,천문학

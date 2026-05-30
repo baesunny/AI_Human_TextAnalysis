@@ -1,0 +1,20 @@
+.ipynb_checkpoints/
+__pycache__/
+__MACOSX/
+.DS_Store
+*.pyc
+.venv/
+venv/
+env/
+*.log
+.env
+
+# Large or regeneratable data (re-run notebooks to recreate)
+data/raw/
+data/processed/
+data/results/morph/morph_tokens.pkl
+data/results/embeddings/
+data/results/embedding/*.model
+data/results/embedding/*.npy
+*.pkl
+*.npy

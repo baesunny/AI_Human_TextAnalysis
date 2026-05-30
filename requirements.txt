@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+konlpy
+tqdm
+openai
+sentence-transformers
+umap-learn
+scikit-learn
+gensim
+jupyter
